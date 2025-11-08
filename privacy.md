@@ -16,7 +16,7 @@ However, the app integrates Google AdMob to display advertisements. As a result:
 
 
 We do not use any analytics services and the app does not require account creation or login.
-For more information about how Google uses data from AdMob, please visit: https://policies.google.com/technologies/ads
+For more information about how Google uses data from AdMob, please visit: [Google Policies](https://policies.google.com/technologies/ads)
 
 
 If you have any questions about this policy, feel free to [contact us.](mailto:nazifsezer@gmail.com)
