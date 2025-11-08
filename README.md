@@ -13,8 +13,8 @@ Have fun folks!
 
 **– N.**
 
-#
+# 
 
 **Android release date:**
-Actually it was last weekend. Whatever... Who cares deadlines in theese days.
+14 July 1789
 
