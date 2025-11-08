@@ -1,6 +1,8 @@
 # Did you panic?
 
-Please tell me if something is wrong with the game? [Send me a mail](mailto:nazifsezer@gmail.com)
+Please tell me if something is wrong with the game? [Send a mail.](mailto:nazifsezer@gmail.com)
+
+If you have concerns about privacy policies: [Click here.](https://dotpanic.net/privacy)
 
 # What is Dot Panic 2.0?
 
