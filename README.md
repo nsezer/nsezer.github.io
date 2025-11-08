@@ -12,7 +12,9 @@ So, I hope you guys rage quit while playing it too ;) [Download Dot Panic 2.0](h
 Have fun folks!
 
 **– N.**
+
 #
+
 **Android release date:**
 Actually it was last weekend. Whatever... Who cares deadlines in theese days.
 
